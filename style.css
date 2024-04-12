@@ -3,13 +3,18 @@ body {
   color: white;
   padding: 0px;
   font-family:"ariel", sans-serif;
+  overflow: hidden; 
 }
 
 .topmenu{ 
   text-decoration: none;
-  padding: 0px;
+  padding: 30px;
   margin: 0 auto;
   text-align: center;
+  position: sticky;
+  background-color: orange;
+  
+  
   
   }
   
@@ -28,11 +33,11 @@ a:hover{
 
 
 h1{ 
-  
+  font-family: "Dancing Script";
   padding: 150px;
-  overflow: auto; 
+  overflow: hidden;
   text-align: center;
-  margin: 30px  auto;
+  margin:  auto;
   background-image: url ("");
   background-color: aqua;
   
