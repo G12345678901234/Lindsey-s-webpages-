@@ -1,19 +1,48 @@
 body {
   background: black;
   color: white;
-  padding: 25px;
-  font-family:"Dancing", sans-serif;
+  padding: 0px;
+  font-family:"ariel", sans-serif;
 }
 
 .topmenu{ 
   text-decoration: none;
-}
-
+  padding: 0px;
+  margin: 0 auto;
+  text-align: center;
+  
+  }
+  
 a {
   color:white;
   text-decoration: none;
+  word-spacing: 0px;
+  text-align: center;
+  margin: 0 auto;
+  padding:15px;
 }
 
 a:hover{
   color: midnightblue;
+}
+
+
+h1{ 
+  
+  padding: 150px;
+  overflow: auto; 
+  text-align: center;
+  margin: 30px  auto;
+  background-image: url ("");
+  background-color: aqua;
+  
+
+
+}
+
+.contact{
+  text-align: center;
+  margin: 0 auto;
+  padding:25px;
+  
 }
