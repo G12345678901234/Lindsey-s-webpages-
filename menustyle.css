@@ -1,19 +1,21 @@
 body {
   background: black;
   color: white;
-  padding: 25px;
-  font-family:"Dancing", sans-serif;
+  padding: 0px;
+  font-family:"ariel", sans-serif;
 }
 
 .topmenu{ 
   text-decoration: none;
-}
-
+  padding: 0px;
+  margin: 0 auto;
+  text-align: center;}
+  
 a {
   color:white;
   text-decoration: none;
-}
-
-a:hover{
-  color: midnightblue;
+  word-spacing: 0px;
+  text-align: center;
+  margin: 0 auto;
+  padding:15px;
 }
