@@ -1,7 +1,11 @@
+* { 
+
+
+
 body {
   background: black;
   color: black;
-  padding: 0px;
+  padding: 0em;
   font-family:"ariel", sans-serif;
   overflow: scroll; 
   height: 100%;
@@ -13,10 +17,10 @@ body {
   /**background-image: url(image2.jpeg);**/
   background-color: black;
   background-position: center;
-  font-size: 30px;
+  font-size: 30em;
   font-family: "Dancing Script";
   text-decoration: none;
-  padding: 20px;
+  padding: 20em;
   margin: 0 auto;
   text-align: center;
  
@@ -25,10 +29,10 @@ body {
 a {
   color:white;
   text-decoration: none;
-  word-spacing: 0px;
+  word-spacing: 0em;
   text-align: center;
   margin: 0 auto;
-  padding:15px;
+  padding:15em;
   display: float;
 
 }
@@ -41,7 +45,7 @@ a:hover{
 .h1{ 
   font-family: "Dancing Script";
   color: white;
-  padding: 300px;
+  padding: 300em;
   overflow: scroll;
   text-align: center;
   margin:  auto;
@@ -59,12 +63,12 @@ a:hover{
 .contact { 
   background-image: url(image1.jpeg);
   background-position: center;
-  font-size: 40px;
+  font-size: 40em;
   font-family: "dancing script";
   color: white;
   text-align: center; 
   margin:0 auto;
-  padding: 150px;
+  padding: 150em;
 }
 
 .contact a {
