@@ -7,24 +7,28 @@ body {
 }
 
 .topmenu{ 
+  color: white;
+  /**background-image: url(image2.jpeg);**/
+  background-color: black;
+  background-position: center;
   font-size: 30px;
   font-family: "Dancing Script";
   text-decoration: none;
   padding: 20px;
   margin: 0 auto;
   text-align: center;
-  position: sticky;
-  background-color: orange;
+ 
    }
   
 a {
-  color:black;
+  color:white;
   text-decoration: none;
   word-spacing: 0px;
   text-align: center;
   margin: 0 auto;
   padding:15px;
   display: float;
+
 }
 
 a:hover{
@@ -34,30 +38,38 @@ a:hover{
 
 .h1{ 
   font-family: "Dancing Script";
-  padding: 150px;
-  overflow: hidden;
+  color: white;
+  padding: 300px;
+  overflow: scroll;
   text-align: center;
   margin:  auto;
-  background-image: url ("");
-  background-color: aqua;
+  background-image: url(image0.jpeg);
+  background-position: center;
   }
   .h1 h1 {
-    margin: 10px;
-    overflow: hidden;
+    margin: 0 auto;
+    overflow: visible;
+    font-size: xx-large;
+    font-weight: 900;
   }
 
 
 .contact { 
-  background-color: purple;
+  background-image: url(image1.jpeg);
+  background-position: center;
   font-size: 40px;
   font-family: "dancing script";
   color: white;
   text-align: center; 
   margin:0 auto;
-  padding: 30px;
+  padding: 150px;
+}
+
+.contact a {
+  color: #ffffff;
+  font-weight: 900;
 }
 
 .contact a:hover{ 
   color: orange;
 }
-
