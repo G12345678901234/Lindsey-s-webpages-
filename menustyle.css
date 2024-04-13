@@ -14,11 +14,11 @@ body {
   margin: 0 auto;
   text-align: center;
   position: sticky;
-  background-color: orange;
+  background-color: black;
    }
    
   a {
-  color:black;
+  color:white;
   text-decoration: none;
   word-spacing: 0px;
   text-align: center;
