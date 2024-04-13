@@ -4,6 +4,8 @@ body {
   padding: 0px;
   font-family:"ariel", sans-serif;
   overflow: scroll; 
+  height: 100%;
+  width: 100%
 }
 
 .topmenu{ 
